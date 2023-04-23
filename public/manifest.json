@@ -4,10 +4,7 @@
   "description": "Cookie Wizard Chrome extension",
   "version": "0.1.0",
   "action": {
-    "default_popup": "index.html",
+    "default_popup": "popup.html",
     "default_title": "CookieWizard"
-  },
-  "permission": ["scripting"],
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  }
 }
